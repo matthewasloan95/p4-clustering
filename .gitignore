@@ -1,3 +1,3 @@
-archive.zip
-archive/
+*archive.zip
+*archive/
 .ipynb_checkpoints/
